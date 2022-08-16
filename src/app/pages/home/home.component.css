@@ -1,0 +1,53 @@
+.banner
+{
+    background-image: url('../../../assets/SDLC.jpg');
+    height: 500px;
+    background-position: center top;
+    background-size: cover;
+    
+}
+.content
+{
+    top: 30%;
+    left: 20%;
+    position: absolute;
+}
+.content h1
+{
+    color: rgb(252, 249, 249);
+    font-size: 50px;
+    font-weight: 200px;
+    
+}
+.content a
+{
+    text-decoration: none;
+    background-color: azure;
+    color: var(--primary-color);
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+.content a:hover
+{
+    background-color: var(--primary-color);
+    color: azure;
+}
+.stepbox
+{
+    background-color: black;
+    padding: 10px 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+.stepbox h1
+{
+    color: var(--primary-color);
+    font-size: 50px;
+    font-weight: bold;
+}
+.stepbox p
+{
+    color: azure;
+    font-size: 20px;
+    font-style: italic;
+}

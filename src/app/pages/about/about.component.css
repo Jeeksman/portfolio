@@ -1,0 +1,20 @@
+.about
+{
+   text-align: center;
+   font-size: 50px; 
+}
+.abp
+{
+    text-align: center;
+    font-style: normal;
+    font-size: bold;
+}
+
+.banner
+{
+    background-image: url('../../../assets/bg.jpg');
+    height: 500px;
+    background-position: center top;
+    background-size: cover;
+    
+}
